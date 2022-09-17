@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="c790777b-a0f6-4716-9f9c-2c1f3719b7a0" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="CSS File" />
+        <option value="SCSS File" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="20MjHCHzPIdKOVDDBtZeZF39fS9" />
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="D:/SHAHSIY HUJJATLARIM (KIRISH TAQIQLANGAN)/Front end project/Lesson 18. MaxWay" />
+    <property name="list.type.of.created.stylesheet" value="SCSS" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\WORKS\Newcastle Frontend G2\Lesson 24. MaxWay\assets\images" />
+      <recent name="D:\WORKS\Newcastle Frontend G2\Lesson 24. MaxWay\assets\icons" />
+      <recent name="D:\WORKS\Newcastle Frontend G2\Lesson 24. MaxWay\assets\fonts" />
+      <recent name="D:\WORKS\Newcastle Frontend G2\Lesson 24. MaxWay" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c790777b-a0f6-4716-9f9c-2c1f3719b7a0" name="Default Changelist" comment="" />
+      <created>1635861260930</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1635861260930</updated>
+      <workItem from="1635861262579" duration="6790000" />
+      <workItem from="1636033988485" duration="7033000" />
+      <workItem from="1636205345802" duration="750000" />
+      <workItem from="1636206105832" duration="6017000" />
+      <workItem from="1636222855077" duration="27000" />
+      <workItem from="1636637394077" duration="4721000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+</project>
